@@ -1,7 +1,10 @@
 # woowacourse-precourse
-우아한 테크코스BE - 프리코스 모음
+<strong>우아한 테크코스BE - 프리코스 모음</strong>
 
-사용 명령어 : git subtree add --prefix={원본 repository name} {원본 repository clone url} {원본 repositroy 작업 branch명}
+- 사용 명령어
+``` bash
+git subtree add --prefix={원본 repository name} {원본 repository clone url} {원본 repositroy 작업 branch명}
+```
 
 ## week1
 간단 자바 문제 풀이
